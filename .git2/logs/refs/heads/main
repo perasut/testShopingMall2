@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 2a941c09314b2eb1ca682ff05c76ed9127a0b7e0 sudo <perasutlife@gmail.com> 1601203722 +0700	commit (initial): ep.35
+2a941c09314b2eb1ca682ff05c76ed9127a0b7e0 2a941c09314b2eb1ca682ff05c76ed9127a0b7e0 sudo <perasutlife@gmail.com> 1601203781 +0700	Branch: renamed refs/heads/master to refs/heads/master
+2a941c09314b2eb1ca682ff05c76ed9127a0b7e0 6c2c417dc9f71664a8b3f045389fa617d2bf7221 sudo <perasutlife@gmail.com> 1601222376 +0700	commit: ep.43
+6c2c417dc9f71664a8b3f045389fa617d2bf7221 9c0e1bac4650fcb54bc6ed71ff8626648d12153b sudo <perasutlife@gmail.com> 1601271297 +0700	commit: ep50
+9c0e1bac4650fcb54bc6ed71ff8626648d12153b 5b15700f6e582be5c928b442e0c8a70f799653e8 sudo <perasutlife@gmail.com> 1601361260 +0700	commit: EP.52
+5b15700f6e582be5c928b442e0c8a70f799653e8 7644f3f0120631ebeaf0f664a41ed835504813be sudo <perasutlife@gmail.com> 1601732892 +0700	commit: EP.66
+7644f3f0120631ebeaf0f664a41ed835504813be 0e59c313ea4e0eb2abe5f63cb558e3ec3e3dfd76 sudo <perasutlife@gmail.com> 1601789363 +0700	commit: ep.68
+0e59c313ea4e0eb2abe5f63cb558e3ec3e3dfd76 4b21af914e3c75c80d540f057a6635e3bc1217f8 sudo <perasutlife@gmail.com> 1601798217 +0700	commit: ...
+4b21af914e3c75c80d540f057a6635e3bc1217f8 54f6fe99e3d686b0e6b90c4ef199cc83a2168122 sudo <perasutlife@gmail.com> 1601798299 +0700	commit: ....
+54f6fe99e3d686b0e6b90c4ef199cc83a2168122 54f6fe99e3d686b0e6b90c4ef199cc83a2168122 sudo <perasutlife@gmail.com> 1601798699 +0700	Branch: renamed refs/heads/master to refs/heads/main
+54f6fe99e3d686b0e6b90c4ef199cc83a2168122 b81d62f363b6a63c88b4e64b5c466fd5090ed757 sudo <perasutlife@gmail.com> 1601799011 +0700	commit: first commit

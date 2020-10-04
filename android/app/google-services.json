@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365373499725",
+    "firebase_url": "https://testshoppingmall-2a12c.firebaseio.com",
+    "project_id": "testshoppingmall-2a12c",
+    "storage_bucket": "testshoppingmall-2a12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365373499725:android:72839523207a99449bef04",
+        "android_client_info": {
+          "package_name": "com.cabbitcool.test_shoping_mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365373499725-pfaplci0ssdae2uv3u9pe9flihdadvri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HjSu-Zvnb2UxUxyOx_wlAJVTlSLgeyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365373499725-pfaplci0ssdae2uv3u9pe9flihdadvri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
